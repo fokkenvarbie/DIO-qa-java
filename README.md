@@ -11,3 +11,4 @@ Este documento apresenta o escopo, o fluxo de desenvolvimento e os artefatos de 
   - Status: Exibe o status de cada conquista (desbloqueada ou bloqueada) para fácil entendimento do progresso.
   - Registro Temporal: Para conquistas desbloqueadas, é exibida a data e o horário exatos em que foram alcançados.
   - Filtragem Dinâmica: Oferece ao usuário a capacidade de filtrar a lista de conquistas por jogo, permitindo uma visualização focada.
+  - Visualização de Amigos: Apresenta quais usuários de cada "Lista de Amigos" está online ou offline, filtrando por plataforma.
