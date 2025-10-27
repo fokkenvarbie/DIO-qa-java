@@ -1,2 +1,3 @@
-# DIO-qa-java
-Exercício para o bootcamp da DIO em QA com Java, focado na aplicação de conceitos de processo, metodologias ágeis (Scrum/XP) e normas internacionais (ISO) para garantir a excelência de produtos desenvolvidos em Java.
+# Projeto GameHub - Módulo de Acesso e Progressão do Jogador
+
+Este documento apresenta o escopo, o fluxo de desenvolvimento e os artefatos de teste do projeto fictício GameHub, focado em entregar uma experiência robusta para o gerenciamento de contas de jogadores e acompanhamento de progresso.
